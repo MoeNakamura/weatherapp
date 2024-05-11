@@ -1,0 +1,18 @@
+# APIキーが含まれる設定ファイル
+config.json
+
+# ノードモジュール
+node_modules/
+
+# システム生成ファイル
+.DS_Store
+Thumbs.db
+
+# ビルド出力
+/dist
+
+# ログファイル
+*.log
+
+# ローカル環境設定
+.env
