@@ -16,3 +16,4 @@ Thumbs.db
 
 # ローカル環境設定
 .env
+Gemfile.lock
